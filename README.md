@@ -1,6 +1,6 @@
-# PysparkENEM
+# ETLPysparkENEM
 
-Extrai, processa e carrega dados do ENEM. O objetivo do projeto é responder o questionário abaixo:
+Extrai, processa e carrega dados do ENEM 2020. O objetivo do projeto é responder o questionário abaixo:
 
 1. Qual a escola com a maior média de notas?
 2. Qual o aluno com a maior média de notas e o valor dessa média?
@@ -13,6 +13,12 @@ Extrai, processa e carrega dados do ENEM. O objetivo do projeto é responder o q
 
 Foi realizada a modelagem dimensional da base. 
 
-
+<p align="center">
+<img src="https://github.com/LeandroRFausto/PysparkENEM/blob/main/prints/MER_Mesha.png"/>
+</p>
 
 O ETL foi feito em Python/Pyspark e enviado para o MySQL.
+
+<p align="center">
+<img src="https://github.com/LeandroRFausto/PysparkENEM/blob/main/prints/mysql.png"/>
+</p>
