@@ -15,4 +15,4 @@ Foi realizada a modelagem dimensional da base.
 
 
 
-O ETL foi feito em Python/Pyspark e enviado para MySQL.
+O ETL foi feito em Python/Pyspark e enviado para o MySQL.
